@@ -1,0 +1,25 @@
+* {
+    border: 1px solid black;}
+
+header,footer {
+    width: 100%;
+    
+}
+aside {width: 38%;
+
+}
+
+nav {
+    width: 50%;
+}
+section {
+    width: 62%;
+}
+article {
+    border: 1px dotted orange;
+}
+
+
+
+
+
