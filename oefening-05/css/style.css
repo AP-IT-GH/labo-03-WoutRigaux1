@@ -1,0 +1,28 @@
+/* hoe padding en margin weten, kleuren? Waarom body: color white?  */
+body{
+    background-color: grey;
+    margin: 20px;
+}
+
+h1{
+    text-transform: uppercase;
+    background-color: aquamarine;
+    width: 100%;
+    padding: 1em 0;
+    color: white;
+
+}
+
+h2 {
+    text-transform: uppercase;
+    background-color: pink;
+    width: 100%;
+    padding: 1em 0;
+    color: white;
+}
+
+p {
+    background-color: white;
+    width: 100%;
+    padding: 1em 0;
+}
