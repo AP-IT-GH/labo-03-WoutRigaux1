@@ -1,10 +1,7 @@
 **body**
   *  lettertype Arial, Helvetica, sans-serif met een grootte van 1rem
   *  lijn de tekst uit, zowel links als rechts
-  *  titels worden gecentreerd en in hoofdletters gezet header
-  *  zwarte achtergrondkleur en een witte tekstkleur
-  *  grootte lettertype van 2.5rem
-  *  padding zowel boven als onder van 60px
+  *  titels worden gecentreerd en in hoofdletters gezet
 
 **header**
   * zwarte achtergrondkleur en een witte tekstkleur
