@@ -1,3 +1,26 @@
 body {
     font-size: 14px;
 }
+
+h1{
+    font-size: 24px;
+    font-family: Verdana,Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18px;
+    color: brown;
+    text-decoration: underline;
+
+}   
+
+figcaption {
+    font-size: 11px;
+    font-style: italic;
+}
+img {
+    width: 250px;
+}
